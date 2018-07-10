@@ -6,5 +6,5 @@ docker run \
 --rm \
 --privileged=true \
 --volume ${PWD}:/root/src \
-jsdoitao/clang-format -i ${cpp_files} -style=file
+jsdoitao/docker-clangformat -i ${cpp_files} -style=file
 echo "clang-foramt done."
