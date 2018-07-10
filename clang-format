@@ -1,0 +1,30 @@
+BasedOnStyle: Google
+PointerAlignment: Right
+IndentWidth: 4
+MaxEmptyLinesToKeep: 1
+ObjCSpaceAfterProperty: true
+ObjCBlockIndentWidth: 4
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AlignTrailingComments: true
+AlignOperands: true
+SpacesInSquareBrackets: false
+SpacesInParentheses : false
+AlignConsecutiveDeclarations: false
+AlignConsecutiveAssignments: true
+SpaceBeforeAssignmentOperators: true
+SpacesInContainerLiterals: true
+IndentWrappedFunctionNames: true
+KeepEmptyLinesAtTheStartOfBlocks: true
+BreakConstructorInitializersBeforeComma: true
+AllowAllParametersOfDeclarationOnNextLine: true
+SpaceAfterCStyleCast: true
+TabWidth: 4
+UseTab: Never
+BreakBeforeBraces: Linux
+ColumnLimit: 100
+SortIncludes: false
+
+
+SpacesBeforeTrailingComments: 3
+
